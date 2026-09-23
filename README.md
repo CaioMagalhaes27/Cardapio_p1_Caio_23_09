@@ -42,5 +42,5 @@ Para a **Feature 2**, foi aplicada a regra de validação customizada no preço 
 
 1. **Clonar o repositório:**
    ```bash
-   git clone [https://github.com/CaioMagalhaes27/EXERCICIO_AULA_04_DJANGO_16_09.git](https://github.com/CaioMagalhaes27/EXERCICIO_AULA_04_DJANGO_16_09.git)
-   cd EXERCICIO_AULA_04_DJANGO_16_09
+   git clone [https://github.com/CaioMagalhaes27/Cardapio_p1_Caio_23_09.git](https://github.com/CaioMagalhaes27/Cardapio_p1_Caio_23_09.git)
+   cd Cardapio_p1_Caio_23_09
