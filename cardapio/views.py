@@ -64,7 +64,7 @@ def criar_prato(request):
             )
             return redirect('home')
 
-    return render(request, 'cardapio/form_prato.html', {
+    return render(request, 'cardapio/form_pedido.html', {
         'categorias': categorias,
         'erro': erro
     })
